@@ -1,5 +1,8 @@
 # ⚠️ PORTFOLIO UNDER CONSTRUCTION ⚠️
 
+
 but uhh.... yeah! i got these 2 links!!! CLICK THEM... NOW!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-https://github.com/evyyyy-dev/dungeon-generator
-https://github.com/evyyyy-dev/letter-constrained-chat
+
+[THE COOLEST DUNGEON GENERATOR YOU WILL EVER SEE!!!!!!!!!!!!!!!!!!!!!!!!](https://github.com/evyyyy-dev/dungeon-generator)
+
+[THE BEST CHAT SYSTEM WORLDWIDE!!!!!!!!!!!!!!!!!!!!!!!!](https://github.com/evyyyy-dev/letter-constrained-chat)
