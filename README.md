@@ -1,10 +1,13 @@
 # ⚠️ PORTFOLIO UNDER CONSTRUCTION ⚠️
+## Most likely finished within the next 3 days
+(current there are only these links)
 
+---
 
-but uhh.... yeah! i got these 2 links!!! CLICK THEM... NOW!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[dungeon generator](https://github.com/evyyyy-dev/dungeon-generator)
 
-[THE COOLEST DUNGEON GENERATOR YOU WILL EVER SEE!!!!!!!!!!!!!!!!!!!!!!!!](https://github.com/evyyyy-dev/dungeon-generator)
+[letter constrained chat filtering system](https://github.com/evyyyy-dev/letter-constrained-chat)
 
-[THE BEST CHAT SYSTEM WORLDWIDE!!!!!!!!!!!!!!!!!!!!!!!!](https://github.com/evyyyy-dev/letter-constrained-chat)
+[scp-173 system](https://github.com/evyyyy-dev/scp-173-system)
 
-[EXTREMELY COOL SCP-173!!!!!!!!!!!!!!!!!!!!!!](https://github.com/evyyyy-dev/scp-173-system) (okay, if you are seeing this from the commit history, i am so sorry)
+[settings toggle](https://github.com/evyyyy-dev/settings-toggle)
