@@ -1,5 +1,5 @@
 # ⚠️ PORTFOLIO UNDER CONSTRUCTION ⚠️
-## Most likely finished within the next 3 days
+## Most likely finished tomorrow
 (current there are only these links)
 
 ---
@@ -11,3 +11,5 @@
 [scp-173 system](https://github.com/evyyyy-dev/scp-173-system)
 
 [settings toggle](https://github.com/evyyyy-dev/settings-toggle)
+
+[word puzzle system](https://github.com/evyyyy-dev/word-puzzle-system/blob/main/README.md)
